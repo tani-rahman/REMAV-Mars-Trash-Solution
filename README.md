@@ -1,16 +1,35 @@
-# React + Vite
+# 🌌 Mars Website – Red Mars. Clean Future.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌍 Project Overview
+**Mars Website** is a modern, responsive platform focused on raising awareness about **space waste on Mars** and showcasing innovative solutions for a sustainable future.  
+The site includes engaging UI components, categorized exploration of space debris, solution details, FAQs, and user interaction features like a contact form.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+Check out the live version of the website here:  
+👉 [Mars Website Live](https://remav.netlify.app)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
+- 🌍 **Responsive Design** – Optimized for desktop, tablet, and mobile  
+- 🪐 **Home Page** – Introduction to Mars waste challenges  
+- 🧩 **Categories Page** – Explore different types of trash/debris  
+- 💡 **Solutions Page** – Suggested approaches for a cleaner Mars  
+- ❓ **FAQs Page** – Users can read and submit questions  
+- 📩 **Contact Page** – Easy access to connect with the team  
+- ⚠️ **Error Page** – Custom 404 handling  
+- 🎨 **Smooth Animations & Transitions** – For a better user experience  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Technologies & NPM Packages Used
+- **React** – Frontend library for building UI  
+- **Vite** – Fast and modern development environment  
+- **React Router DOM** – Routing and navigation  
+- **Tailwind CSS** – Utility-first CSS framework for styling  
+- **DaisyUI** – Prebuilt Tailwind components  
+- **Axios** – API requests & data fetching  
+- **Framer Motion** – Animations and transitions  
+
