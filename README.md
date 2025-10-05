@@ -1,4 +1,4 @@
-# 🌌 Mars Website – Red Mars. Clean Future.
+# Mars Website – Red Mars. Clean Future.
 
 ## 🌍 Project Overview
 **Mars Website** is a modern, responsive platform focused on raising awareness about **space waste on Mars** and showcasing innovative solutions for a sustainable future.  
