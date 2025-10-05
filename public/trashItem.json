@@ -1,0 +1,93 @@
+
+[
+  {
+    "title": "Zotek F30",
+    "imageURL": "https://i.ibb.co.com/nFLvcvG/zotek-F30.png",
+    "categories": "Foam Packaging",
+    "description": "Lightweight foam used for insulation, cushioning, and impact protection in space environments."
+  },
+  {
+    "title": "Cargo Transfer Bags (CTB)",
+    "imageURL": "https://i.ibb.co.com/SD6PMrTj/Cargo-transfer-bags.webp",
+    "categories": "EVA Waste",
+    "description": "Reusable storage bags used to transfer items between spacecraft and stations. Made from durable fabric suitable for reuse or repurposing."
+  },
+  {
+    "title": "Clothing",
+    "imageURL": "https://i.ibb.co.com/cS9YyFFq/Clothing.webp",
+    "categories": "Fabrics",
+    "description": "Old fabric clothing can be reused as thermal insulation, cleaning materials, or repurposed into new fiber composites."
+  },
+  {
+    "title": "Towels / Wash Cloths",
+    "imageURL": "https://i.ibb.co.com/vxtGfHRy/towels.jpg",
+    "categories": "Fabrics",
+    "description": "Used towels can be sterilized and repurposed as filters, insulation layers, or padding materials."
+  },
+  {
+    "title": "Cleaning Wipes",
+    "imageURL": "https://i.ibb.co.com/60Gq9c7R/wipes.webp",
+    "categories": "Fabrics",
+    "description": "Worn cleaning wipes can be compacted and reused in water recovery or polymer recycling processes."
+  },
+  {
+    "title": "Overwrap",
+    "imageURL": "https://i.ibb.co.com/tFhxkNc/Glenroy-White.webp",
+    "categories": "Food Packaging",
+    "description": "Plastic overwrap materials can be melted and reused as 3D printing filament or sealing material."
+  },
+  {
+    "title": "Rehydratable Pouch",
+    "imageURL": "/images/rehydratable-pouch.jpg",
+    "categories": "Food Packaging",
+    "description": "Used for storing rehydratable food. After use, pouches can be cleaned and reused for sample storage or recycled as plastic sheets."
+  },
+  {
+    "title": "Aluminum Structure / Struts",
+    "imageURL": "https://i.ibb.co.com/N2JZf0k8/aluminium-steam-table-pans.webp",
+    "categories": "Structural Elements",
+    "description": "Strong lightweight structures used for supporting components; waste aluminum can be melted and recast for new tools or parts."
+  },
+  {
+    "title": "Polymer Matrix Composites",
+    "imageURL": "https://i.ibb.co.com/HDkBxNgn/Polymer.webp",
+    "categories": "Structural Elements",
+    "description": "Composite materials combining resin and fiber; can be reshaped or recycled into paneling or insulation boards."
+  },
+  {
+    "title": "Air Cushion",
+    "imageURL": "https://i.ibb.co.com/nsxRD1jY/Air-cushion.jpg",
+    "categories": "Other Packaging/Gloves",
+    "description": "Protective air-filled cushions can be deflated, sterilized, and reused for impact protection or padding."
+  },
+  {
+    "title": "Bubble Wrap Filler",
+    "imageURL": "https://i.ibb.co.com/Y4rP8xvv/Bubble-wrap.jpg",
+    "categories": "Other Packaging/Gloves",
+    "description": "Bubble wrap waste can be melted and recycled into lightweight polymer blocks or packing inserts."
+  },
+  {
+    "title": "Reclosable Bags",
+    "imageURL": "https://i.ibb.co.com/jPd4rqhF/Reclosable.webp",
+    "categories": "Other Packaging/Gloves",
+    "description": "Reusable plastic bags that can store samples, tools, or waste materials. Easily sterilized for reuse."
+  },
+  {
+    "title": "Anti-Static Bubble Wrap Bags",
+    "imageURL": "https://i.ibb.co.com/LX8qG8zj/Anti-Static.webp",
+    "categories": "Other Packaging/Gloves",
+    "description": "Used for sensitive electronics; can be reused after cleaning or melted into new polymer films."
+  },
+  {
+    "title": "Plastazote LD45 FR",
+    "imageURL": "https://i.ibb.co.com/VW1N9sXr/Plastazote.webp",
+    "categories": "Other Packaging/Gloves",
+    "description": "Flame-retardant polyethylene foam that can be reshaped into thermal padding or protective casings."
+  },
+  {
+    "title": "Nitrile Gloves",
+    "imageURL": "https://i.ibb.co.com/BVRW2VCz/gloves.jpg",
+    "categories": "Other Packaging/Gloves",
+    "description": "Disposable gloves that can be sterilized and repurposed as grip liners or recycled into polymer feedstock."
+  }
+]
