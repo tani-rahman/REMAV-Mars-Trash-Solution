@@ -8,7 +8,7 @@ The site includes engaging UI components, categorized exploration of space debri
 
 ## 🔗 Live Demo
 Check out the live version of the website here:  
-👉 [Mars Website Live](https://remav.netlify.app)
+👉 [Mars Website Live](https://remav-cae9a.web.app/)
 
 ---
 
